@@ -27,3 +27,8 @@ SEEK: a systems biology data and model management platform. BMC Systems Biology,
 Wolstencroft K, Krebs O, Snoep J.L, Stanford N.J, Bacall F, Golebiewski M, Kuzyakiv R, Nguyen Q, Owen S, Soiland-Reyes S, Straszewski J, Van Niekerk D.D, Williams A.R, 
 Malmström L, Rinn B, Müller W, and Goble C (2016) FAIRDOMHub: a repository and collaboration environment for sharing systems biology research. Nucleic Acids Research, 2016, 10.1093/nar/gkw1032.
   [DOI: 10.1093/nar/gkw1032](https://dx.doi.org/10.1093/nar/gkw1032)
+
+### FAIRDOM-SEEK Software in Zenodo
+
+The code for each release of FAIRDOM-SEEK is also submitted to Zenodo, with a DOI generated that can be used for Citations:
+[![DOI](https://zenodo.org/badge/20803285.svg)](https://zenodo.org/badge/latestdoi/20803285)

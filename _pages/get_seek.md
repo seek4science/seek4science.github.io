@@ -4,6 +4,8 @@ title: 'Get FAIRDOM-SEEK'
 layout: 'single'
 ---
 
+[![DOI](https://zenodo.org/badge/20803285.svg)](https://zenodo.org/badge/latestdoi/20803285)
+
 There are different ways for you to start using FAIRDOM-SEEK:
 
 * You can register on the [FAIRDOMHub](https://fairdomhub.org) and create your own project. 
