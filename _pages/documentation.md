@@ -8,6 +8,8 @@ The FAIRDOM-SEEK Documentation can be found at [https://docs.seek4science.org](h
 
 This includes:
 
-* [User Guide](https://docs.seek4science.org/help/user-guide/index.html)
-* [Releases and Changes](https://docs.seek4science.org/tech/releases/)
-* [Installation and Upgrade Guides](https://docs.seek4science.org/get-seek.html)
+* [Get FAIRDOM-SEEK Guide](https://docs.seek4science.org/get-seek)
+* [User Guide](https://docs.seek4science.org/help/user-guide/)
+  * [API Introduction](https://docs.seek4science.org/help/user-guide/api)
+* [Technical Guide](https://docs.seek4science.org/tech/)
+  * [Releases and Changes](https://docs.seek4science.org/tech/releases/)
