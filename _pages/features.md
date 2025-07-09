@@ -18,8 +18,8 @@ All data and information added to FAIRDOM-SEEK is searchable using key-words.
 Individual versions can have their visibility controlled, allowing past versions to be completely hidden if desired.
 
 **Model simulation and annotation** – if models follow the [SBML standard](http://sbml.org/), they can be simulated from within FAIRDOM-SEEK.
-[COPASI](http://copasi.org/) models can be interpretated and manipulated directly from the browser. 
-[Morpheus](https://morpheus.gitlab.io/) modesls can be simulated directly from the browser.
+[COPASI](http://copasi.org/) models can be interpreted and manipulated directly from the browser. 
+[Morpheus](https://morpheus.gitlab.io/) models can be simulated directly from the browser.
 
 **Access Control** – Data will go through a research lifecycle between collection and publication. In a competitive academic environment it is important that the data can be shared with collaborators, and then the wider community at appropriate points within the life-cycle. FAIRDOM-SEEK allows users to keep their uploaded data entirely private, to share between individuals, then across entire projects, until eventually making it public upon publication.
 
