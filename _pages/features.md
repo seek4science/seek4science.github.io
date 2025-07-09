@@ -17,7 +17,7 @@ All data and information added to FAIRDOM-SEEK is searchable using key-words.
 **Versioning** – All data is stored using versioning, selectable privacy, and static URLs. Versioning and privacy settings ensure that you can share your most recent data, with who you choose. Static URLs ensure that you can be credited directly for all shared work.
 Individual versions can have their visibility controlled, allowing past versions to be completely hidden if desired.
 
-**Model simulation and annotation** – if models follow the [SBML standard](http://sbml.org/), they can be simulated from within FAIRDOM-SEEK.
+**Model simulation and annotation** – if models follow the [SBML standard](http://sbml.org/), they can be simulated from within FAIRDOM-SEEK with [JWS Online](http://jjj.mib.ac.uk/).
 [COPASI](http://copasi.org/) models can be interpreted and manipulated directly from the browser. 
 [Morpheus](https://morpheus.gitlab.io/) models can be simulated directly from the browser.
 
