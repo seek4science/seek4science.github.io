@@ -15,7 +15,7 @@ row1:
     alt: "Explore spreadsheets"
     title: "Explore spreadsheets"
     excerpt: "Excel spreadsheets and other documents can be explored without the need to download."
-    url: "/explore_and_annotate.html"    
+    url: "/explore.html"    
   - image_path: /assets/images/Model-simulation-feature.png
     alt: "Simulate SBML"
     title: "Simulate SBML models"

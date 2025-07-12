@@ -1,7 +1,8 @@
 ---
-permalink: /explore_and_annotate.html
+permalink: /explore.html
 title: "Explore spreadsheets"
 layout: single
+redirect_from: '/explore_and_annotate.html'
 ---
 
 Excel spreadsheets can be explored without the need to download.
