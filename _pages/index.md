@@ -12,14 +12,14 @@ row1:
     excerpt: "FAIRDOM-SEEK has adopted an ISATAB style structure for organising experiments and data."
     url: "/organise.html"    
   - image_path: /assets/images/Excel-feature.png
-    alt: "Explore and annotate"
-    title: "Explore and annotate data"
-    excerpt: "Excel spreadsheets can be explored and annotated without the need to download."
+    alt: "Explore spreadsheets"
+    title: "Explore spreadsheets"
+    excerpt: "Excel spreadsheets and other documents can be explored without the need to download."
     url: "/explore_and_annotate.html"    
   - image_path: /assets/images/Model-simulation-feature.png
     alt: "Simulate SBML"
     title: "Simulate SBML models"
-    excerpt: "Most models that conforms to the SBML format can be simulated within FAIRDOM-SEEK."
+    excerpt: "Most models that conforms to the SBML, COPASI or Morpheus formats can be simulated within FAIRDOM-SEEK."
     url: "/simulate_sbml.html"
     
 row2:

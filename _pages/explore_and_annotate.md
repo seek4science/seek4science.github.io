@@ -1,12 +1,13 @@
 ---
 permalink: /explore_and_annotate.html
-title: "Explore and annotate"
+title: "Explore spreadsheets"
 layout: single
 ---
 
-Excel spreadsheets can be explored and annotated without the need to download.
+Excel spreadsheets can be explored without the need to download.
 
-Individual or groups of cells can be annotated with text. Time series data can be annotated and stored as a plot.
-Along with the annotations, contents of the spreadsheets are also indexed and searchable - so data can be discovered by searching within their content.
+The contents of spreadsheets are indexed and searchable - so data can be discovered by searching within their content.
+
+You can explore and view other types of documents in the browser, including PDF, Word, text files, and models. 
 
 ![Excel feature](/assets/images/Excel-feature.png){: .screenshot}
