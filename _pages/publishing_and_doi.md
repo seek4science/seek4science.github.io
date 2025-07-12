@@ -6,9 +6,9 @@ layout: single
 
 FAIRDOM-SEEK can be set up as registration hub for your publications. 
 Research outputs can be assigned a persistent identifier, making them findable by a unique URL. 
-For example, matariels shared on [FAIRDOMHub](https://fair-dom.org/fairdom-in-use/fairdomhub) (a public hub built with FAIRDOM-SEEK) can be issued with a DOI. 
+For example, materials shared on [FAIRDOMHub](https://fair-dom.org/fairdom-in-use/fairdomhub) (a public hub) can be issued with a DOI. 
 
 ![DOI logo](/assets/images/DOI_logo.svg)
 
-If you set up your own hub, you will need to register with Data Cite and sign up to a chargeable contract.
+If you set up your own hub and wish to issue DOIs, you will need to [become a member of DataCite](https://datacite.org/become-a-member/) (see their [fee model](https://datacite.org/fee-model/)).
 
