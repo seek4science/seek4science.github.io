@@ -15,3 +15,6 @@ With a quick glance it also is possible to see what items they have been involve
 
 
 ![Yellow_pages feature](/assets/images/Who-feature.png){: .screenshot}
+
+We recognise that the institutions people work for are important too. For each person, you can assign an [ROR](https://ror.org/about/), a persistent identifier for research institutions. 
+ROR makes it easier to disambiguate institution names and connect research organisations to researchers and research outputs. 
