@@ -9,4 +9,4 @@ The API supports Basic Authentication, OAuth and API Tokens, and can also be use
 
 ![Screenshot of the API in action](/assets/images/api-feature.png){: .screenshot}
 
-FAIRDOM-SEEK supports RDF export (in Turtle format) and can be configured with a SPARQL endpoint. RDF generation will include [Extended Metadata](extended_metadata) when present for the attributes that include an identifier, and similarly some basic RDF is generated for Samples.
+FAIRDOM-SEEK supports RDF export (in Turtle format) and can be configured with a SPARQL endpoint. RDF generation will include [Extended Metadata](extended_metadata.html) when present for the attributes that include an identifier, and similarly some basic RDF is generated for Samples.

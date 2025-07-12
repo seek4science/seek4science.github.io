@@ -39,7 +39,22 @@ row2:
     excerpt: "RightField enabled sheets allow rich semantic descriptions of data. Our Just Enough Results Model can be used with Rightfield."
     url: "/rightfield_templates.html"    
   
-
+row3:
+  - image_path: /assets/images/emt-management.png
+    alt: "Extended Metadata Types management"
+    title: "Extended Metadata"
+    excerpt: "Define additional metadata attributes for a particular type, adhere to standards."
+    url: "/extended_metadata.html"
+  - image_path: /assets/images/DOI_logo.svg
+    alt: "DOI logo"
+    title: "Publishing and DOI"
+    excerpt: "Set up a registration hub for your publications, manage DOIs."
+    url: "/publishing_and_doi.html"
+  - image_path: /assets/images/api-feature.png
+    alt: "API feature"
+    title: "API and programmatic access"
+    excerpt: "The JSON API allows the searching, listing, reading, updating and creating. FAIRDOM-SEEK supports RDF export."
+    url: "/api_and_programmatic_access.html"   
 ---
 
 
@@ -73,3 +88,5 @@ A publicly available instance of a FAIRDOM-SEEK commons is available - as the [F
 {% include feature_row id="row1" %}
 
 {% include feature_row id="row2" %}
+
+{% include feature_row id="row3" %}
