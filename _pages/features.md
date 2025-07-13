@@ -12,7 +12,7 @@ redirect_from: '/about.html'
 Most common formats allow viewing within the browser, without a download, with additional enhanced features for spreadsheets and SBML models.
 Multiple data files can be registered at once by uploading a zip file. 
 
-All data and information added to FAIRDOM-SEEK is searchable using key-words.
+All data and information added to FAIRDOM-SEEK is searchable using key-words. The contents of [Excel spreadsheets can be explored](explore.html) in the browser.
 
 **Versioning** – All data is stored using versioning, selectable privacy, and static URLs. Versioning and privacy settings ensure that you can share your most recent data, with who you choose. Static URLs ensure that you can be credited directly for all shared work.
 Individual versions can have their visibility controlled, allowing past versions to be completely hidden if desired.
@@ -40,8 +40,10 @@ We believe that many aspects of the ISA framework are equally appropriate for de
 
 Beyond the ISA framework, FAIRDOM-SEEK allows data to be interlinked within the site itself in order to describe their relationship.
 
-If research resulted in a publication, this can also be registered with FAIRDOM-SEEK (including accreditation to relevant people) using a [PUBMED](http://www.ncbi.nlm.nih.gov/pubmed) identifier or [DOI](http://www.doi.org/), 
+**Publishing** – If research resulted in a publication, this can also be registered with FAIRDOM-SEEK (including accreditation to relevant people) using a [PUBMED](http://www.ncbi.nlm.nih.gov/pubmed) identifier or [DOI](http://www.doi.org/), 
 and linked to the assets involved in that research – allowing other researchers access to use, examine, or validate the data that would otherwise be unavailable through the publication alone.
+FAIRDOM-SEEK can be set up as [registration hub](publishing_and_doi.html) for your publications and issue DOIs.
+
 
 ## Bespoke Development
 
