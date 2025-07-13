@@ -22,6 +22,7 @@ Individual versions can have their visibility controlled, allowing past versions
 [Morpheus](https://morpheus.gitlab.io/) models can be simulated directly from the browser.
 
 **Access Control** – Data will go through a research lifecycle between collection and publication. In a competitive academic environment it is important that the data can be shared with collaborators, and then the wider community at appropriate points within the life-cycle. FAIRDOM-SEEK allows users to keep their uploaded data entirely private, to share between individuals, then across entire projects, until eventually making it public upon publication.
+A gatekeeper role can be assigned to manage sharing of a project's assets.
 
 **People index** – FAIRDOM-SEEK contains an [index of people](https://fairdomhub.org/people) where users can browse, or keyword-search, profiles of the projects, groups and people that contribute to the data on the site. People can describe their areas of expertise, which allows other users to quickly identify the right people to approach regarding specialist enquiries and collaboration proposals.
 Extra identifying information, such ORCID and affiliation, can be added for each creator, even if they are not registered in FAIRDOM-SEEK.
