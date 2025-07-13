@@ -6,7 +6,7 @@ layout: single
 
 We recognise that people, and their knowledge, are important.
 
-You can find out what people using, and have expertise in, and how to get in contact with them.
+You can find out [what people are using](https://fairdomhub.org/people), and have expertise in, and how to get in contact with them.
 
 The Yellow Pages is a directory of who is on which project, where they are located, and what they specialise in. This allows researchers to identify people with similar interests, or to find people with the relevant experience when troubleshooting new techniques.
 
