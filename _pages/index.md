@@ -12,14 +12,14 @@ row1:
     excerpt: "FAIRDOM-SEEK has adopted an ISATAB style structure for organising experiments and data."
     url: "/organise.html"    
   - image_path: /assets/images/Excel-feature.png
-    alt: "Explore and annotate"
-    title: "Explore and annotate data"
-    excerpt: "Excel spreadsheets can be explored and annotated without the need to download."
-    url: "/explore_and_annotate.html"    
+    alt: "Explore spreadsheets"
+    title: "Explore spreadsheets"
+    excerpt: "Excel spreadsheets and other documents can be explored without the need to download."
+    url: "/explore.html"    
   - image_path: /assets/images/Model-simulation-feature.png
     alt: "Simulate SBML"
     title: "Simulate SBML models"
-    excerpt: "Most models that conforms to the SBML format can be simulated within FAIRDOM-SEEK."
+    excerpt: "Most models that conforms to the SBML, COPASI or Morpheus formats can be simulated within FAIRDOM-SEEK."
     url: "/simulate_sbml.html"
     
 row2:
@@ -39,7 +39,22 @@ row2:
     excerpt: "RightField enabled sheets allow rich semantic descriptions of data. Our Just Enough Results Model can be used with Rightfield."
     url: "/rightfield_templates.html"    
   
-
+row3:
+  - image_path: /assets/images/emt-management.png
+    alt: "Extended Metadata Types management"
+    title: "Extended Metadata"
+    excerpt: "Define additional metadata attributes for a particular type, adhere to standards."
+    url: "/extended_metadata.html"
+  - image_path: /assets/images/DOI_logo.svg
+    alt: "DOI logo"
+    title: "Publishing and DOI"
+    excerpt: "Set up a registration hub for your publications, manage DOIs."
+    url: "/publishing_and_doi.html"
+  - image_path: /assets/images/api-feature.png
+    alt: "API feature"
+    title: "API and programmatic access"
+    excerpt: "The JSON API allows the searching, listing, reading, updating and creating. FAIRDOM-SEEK supports RDF export."
+    url: "/api_and_programmatic_access.html"   
 ---
 
 
@@ -73,3 +88,5 @@ A publicly available instance of a FAIRDOM-SEEK commons is available - as the [F
 {% include feature_row id="row1" %}
 
 {% include feature_row id="row2" %}
+
+{% include feature_row id="row3" %}

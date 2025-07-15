@@ -1,6 +1,6 @@
 ---
 permalink: /simulate_sbml.html
-title: "Simulate SBML models"
+title: "Simulate SBML, COPASI and Morpheus models"
 layout: single
 ---
 
@@ -11,3 +11,9 @@ The [JWS Online](http://jjj.mib.ac.uk/) model simulator presents a schematic dia
 
 
 ![Simulate_SBML feature](/assets/images/Model-simulation-feature.png){: .screenshot}
+
+[COPASI](http://copasi.org/) models can be interpreted and manipulated directly from the browser or using your local installation of COPASI.
+
+![Simulate COPASI model](/assets/images/copasi-model-browser.png){: .screenshot}
+
+[Morpheus](https://morpheus.gitlab.io/) models can be simulated directly from the browser.
