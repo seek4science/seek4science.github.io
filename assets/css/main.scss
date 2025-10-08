@@ -8,3 +8,8 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Custom CSS: Home page feature boxes */
+.feature__item .archive__item:has(a:hover) {
+  background-color: #f9f9f9;
+  border: 1px solid #bbbbbb;
+}
