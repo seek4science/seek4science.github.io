@@ -3,6 +3,7 @@ permalink: /explore.html
 title: "Explore spreadsheets"
 layout: single
 redirect_from: '/explore_and_annotate.html'
+docs: https://docs.seek4science.org/help/user-guide/adding-assets
 ---
 
 Excel spreadsheets can be explored without the need to download.

@@ -2,6 +2,7 @@
 permalink: /publishing_and_doi.html
 title: "Publishing and DOI"
 layout: single
+docs: https://docs.seek4science.org/tech/administration#configuring-doi-and-pubmed-search
 ---
 
 If research resulted in a publication, this can also be registered with FAIRDOM-SEEK (including accreditation to relevant people) using a [PUBMED](http://www.ncbi.nlm.nih.gov/pubmed) identifier or [DOI](http://www.doi.org/),

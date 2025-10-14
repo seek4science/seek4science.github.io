@@ -2,6 +2,7 @@
 permalink: /api_and_programmatic_access.html
 title: "API and Programmatic Access"
 layout: single
+docs: https://docs.seek4science.org/help/user-guide/api
 ---
 
 FAIRDOM-SEEK includes a [JSON](https://www.json.org/) Application Programming Interface (API) that allows the searching, listing, reading, updating and creating of many items in your FAIRDOM-SEEK instance, along with their attributes.
