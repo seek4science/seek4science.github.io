@@ -2,6 +2,7 @@
 permalink: /rightfield_templates.html
 title: "Semantic spreadsheet templates"
 layout: single
+docs: https://rightfield.org.uk/guide
 ---
 
 
