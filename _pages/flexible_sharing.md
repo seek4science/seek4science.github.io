@@ -2,6 +2,7 @@
 permalink: /flexible_sharing.html
 title: "Flexible sharing controls"
 layout: single
+docs: https://docs.seek4science.org/help/user-guide/general-attributes#sharing
 ---
 
 There is a lot of flexibility and control over who can see, download or edit your items.

@@ -44,6 +44,7 @@ layout: default
         {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.docs %}<div id="docs-button"><a href="{{ page.docs }}" class="btn btn--info" role="button">Link to documentation page</a></div>{% endif %}
       </section>
 
       <footer class="page__meta">

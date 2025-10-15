@@ -2,6 +2,7 @@
 permalink: /organise.html
 title: "Organise and store you data"
 layout: single
+docs: https://docs.seek4science.org/help/user-guide/isa-overview
 ---
 
 FAIRDOM-SEEK has adopted an ISATAB style structure for organising experiments and data.

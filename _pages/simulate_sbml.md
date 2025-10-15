@@ -2,6 +2,7 @@
 permalink: /simulate_sbml.html
 title: "Simulate SBML, COPASI and Morpheus models"
 layout: single
+docs: https://docs.seek4science.org/help/user-guide/copasi-button
 ---
 
 Most models that conforms to the [SBML](https://sbml.org/) format can be simulated within FAIRDOM-SEEK.

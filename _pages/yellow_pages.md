@@ -2,6 +2,7 @@
 permalink: /yellow_pages.html
 title: "Who's doing what, where?"
 layout: single
+docs: https://docs.seek4science.org/help/user-guide/administer-project-members
 ---
 
 We recognise that people, and their knowledge, are important.

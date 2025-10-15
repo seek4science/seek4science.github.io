@@ -2,6 +2,7 @@
 permalink: /extended_metadata.html
 title: "Extended Metadata"
 layout: single
+docs: https://docs.seek4science.org/tech/extended-metadata/extended-metadata-type
 ---
 
 Extended Metadata is a feature added to FAIRDOM-SEEK as part of version 1.11, originally to support plant phenotyping [(MIAPPE)](https://github.com/MIAPPE/MIAPPE).
